@@ -1,0 +1,10 @@
+How old are you?,24
+where are you from?,syria
+1 + 1,2
+2 + 2,4
+3 +3,6
+4 + 4,8
+5+5,10
+6+6,12
+7*7,49
+what is your name,Hamzah
